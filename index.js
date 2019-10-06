@@ -1,2 +1,2 @@
 // Code your solution in this file!
-let companyNmae = 'Scuber';
+const companyNmae = 'Scuber';
